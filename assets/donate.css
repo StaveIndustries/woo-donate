@@ -1,0 +1,6 @@
+.woo-donate-form label { display: block; margin: 0.5rem 0; }
+.woo-donate-form input,
+.woo-donate-form select { display: block; width: 100%; max-width: 320px; }
+.woo-donate-instructions { border: 1px solid #ccd0d4; padding: 1rem; }
+.woo-donor-wall { list-style: disc; margin-left: 1.2rem; }
+.woo-donor-wall li { margin: 0.25rem 0; }
