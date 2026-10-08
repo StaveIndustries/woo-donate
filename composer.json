@@ -1,0 +1,10 @@
+{
+    "name": "woo-donate",
+    "description": "Stellar donations dev tooling",
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}
